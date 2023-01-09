@@ -1,4 +1,8 @@
 # 可視化アプリ
+
+https://user-images.githubusercontent.com/89816618/211350269-20f2168c-1083-4556-a982-cf2c9ad3b4e8.mp4
+
+
 「ファイルをアップロードして下さい」と書かれた場所にcsvファイルをアップロードします。この際、ファイルの中身は整理されている必要があります。
 以下のデータはkaggleの初心者向けコンペTitanicのデータです。こちらのデータをアップロードすると、挙動が確認できます。
 https://www.kaggle.com/competitions/titanic/data
